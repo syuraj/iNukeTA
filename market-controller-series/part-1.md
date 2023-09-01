@@ -32,6 +32,12 @@ MMs need to create liquidity for exit of longs from below
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
+### LQ Sweep vs continuation
+
+There is no wick and we still have main target at bottom, so it is not a sweep.
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
 ### Youtube
 
 {% embed url="https://www.youtube.com/watch?v=dBc7S3MjbfM&list=PLjZ6AdnLS0Q2QGfJbyFPgz2zdTUHQ9OA0" %}
