@@ -28,6 +28,8 @@ Multiple possible draw on internal liquidity inside htf fvg
 
 ### Engineering liquidity to swipe it later
 
+MMs need to create liquidity for exit of longs from below
+
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### Youtube
